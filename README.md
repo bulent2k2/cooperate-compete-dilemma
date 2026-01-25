@@ -1,6 +1,6 @@
 # play: cooperate&compete 
 
-Play it [online here](neon-chimera-4d4b8e.netlify.app).
+Play it [online here](https://neon-chimera-4d4b8e.netlify.app).
 
 # cooperate-compete-dilemma
 
